@@ -1,6 +1,17 @@
 
 # Testing in React with React Testing Library and Jest
 
+
+<br/>
+<p align="center">
+    <a >
+        <img width="50%"  src="https://res.cloudinary.com/triggsumms/image/upload/v1616118405/pxcu7fxdeclotup2awiz.png"  alt="TRACKER logo">
+    </a>
+</p>
+
+<br/>
+
+
 ## 8 simple steps to start testing React Apps using React Testing Library and Jest
 
 1. How to create a test snapshot?
