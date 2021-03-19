@@ -1,5 +1,5 @@
 
-#Testing in React with React Testing Library and Jest
+# Testing in React with React Testing Library and Jest
 
 <br/>
 <p align="center">
@@ -22,4 +22,4 @@
 8. Testing HTTP Request (axios)
 
 Find the full article on [my blog](https://www.ibrahima-ndaw.com/blog/react-testing-library-guide/)
-# REACT-TESTING-JEST__ReactTestingLibrary
+
