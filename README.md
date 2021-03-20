@@ -1,7 +1,6 @@
 
 # Testing in React with React Testing Library and Jest 
-## &
-### A seminar via Chris Smitz....to go over a basic breakdown of everyday essentials in the library [VIDEO LINK](https://www.youtube.com/watch?v=ZmVBCpefQe8)
+### &... A seminar via Chris Smitz....to go over a basic breakdown of everyday essentials in the library [VIDEO LINK](https://www.youtube.com/watch?v=ZmVBCpefQe8)
 <br/>
 <p align="center">
     <a >
